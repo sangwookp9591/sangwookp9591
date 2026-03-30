@@ -3,78 +3,140 @@
 </h1>
 
 <p align="center">
-  <a href="https://ai-ng.co.kr">ai-ng.co.kr</a> · <a href="https://github.com/sangwookp9591/ai-ng-kit-claude">aing</a>
+  <a href="https://ai-ng.co.kr"><img src="https://img.shields.io/badge/ai--ng.co.kr-4A90B8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/sangwookp9591/ai-ng-kit-claude"><img src="https://img.shields.io/badge/aing-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangwookp9591&style=flat-square&color=4A90B8" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/sangwookp9591/ai-ng-kit-claude?style=flat-square&color=4A90B8&label=aing%20stars" alt="Stars" />
 </p>
 
 ---
 
-### What I Do
+<h3 align="center">What I Do</h3>
 
-I make AI write better code than I can, then verify it actually works.
+<p align="center">
+  I make AI write better code than I can, then verify it actually works.
+</p>
 
-**aing** is my answer to the question: what happens when you give an AI 16 named agents, a PDCA engine, a circuit breaker, and tell it "no evidence, no done"?
+<div align="center">
 
 ```
 /aing auto "build a login system"
 ```
 
-One command. Planning, implementation, review, security audit, ship. All orchestrated.
+One command. Plan, build, review, security audit, ship. All orchestrated.
+
+</div>
 
 ---
 
-### Stack
+### Tech Stack
 
-```
-TypeScript  ·  Node.js  ·  Next.js  ·  Playwright  ·  Claude Code
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,tailwind,git,github,vscode&theme=dark" />
+</p>
 
-I write harness code. The kind that sits between the human and the AI and makes sure neither one cuts corners. Advisory file locks, confidence decay, atomic state writes, 3-voice consensus voting. The boring infrastructure that makes the interesting stuff reliable.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript_6.0-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint_10-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### Philosophy
 
-```
-증거 없이 완료를 선언하지 않는다.
-No evidence, no done.
-```
-
-- Code should prove itself. Tests pass, builds succeed, security clears. Opinions don't count.
-- Recovery beats prevention. Circuit breakers, rollback checkpoints, snapshot-based restore.
-- AI is a multiplier, not a replacement. 16 agents with distinct perspectives beat 1 agent trying to be everything.
-
----
-
-### Numbers
-
-<table>
+<table align="center">
 <tr>
-<td align="center"><strong>1,712</strong><br><sub>tests passing</sub></td>
-<td align="center"><strong>36K</strong><br><sub>lines of TypeScript</sub></td>
-<td align="center"><strong>16</strong><br><sub>named agents</sub></td>
-<td align="center"><strong>39</strong><br><sub>executable skills</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>24</strong><br><sub>innovations</sub></td>
-<td align="center"><strong>0</strong><br><sub>tolerance for "it probably works"</sub></td>
-<td align="center"><strong>1,706</strong><br><sub>LOC browse server</sub></td>
-<td align="center"><strong>10</strong><br><sub>E2E eval suites</sub></td>
+<td align="center" width="33%">
+
+**No Evidence, No Done**
+
+증거 없이 완료를 선언하지 않는다
+
+Tests pass, builds succeed, security clears. Opinions don't count.
+
+</td>
+<td align="center" width="33%">
+
+**Recovery > Prevention**
+
+Circuit breakers, rollback checkpoints, snapshot-based restore.
+
+Failure is information, not a stop sign.
+
+</td>
+<td align="center" width="33%">
+
+**AI = Multiplier**
+
+16 agents with distinct perspectives beat 1 agent trying to be everything.
+
+Human decides. Always.
+
+</td>
 </tr>
 </table>
 
 ---
 
-### Featured
+### aing by the Numbers
 
-<a href="https://github.com/sangwookp9591/ai-ng-kit-claude">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sangwookp9591&repo=ai-ng-kit-claude&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666" />
-</a>
+<div align="center">
+
+| | Count | What |
+|:---:|:---:|:---|
+| <img src="https://img.shields.io/badge/1,712-4A90B8?style=for-the-badge" /> | tests | passing (99.7%) |
+| <img src="https://img.shields.io/badge/36K-4A90B8?style=for-the-badge" /> | LOC | TypeScript, zero runtime deps guessing |
+| <img src="https://img.shields.io/badge/16-4A90B8?style=for-the-badge" /> | agents | Sam, Milla, Klay, Able, Jay, Derek... |
+| <img src="https://img.shields.io/badge/39-4A90B8?style=for-the-badge" /> | skills | auto, ship, debug, review, teacher... |
+| <img src="https://img.shields.io/badge/24-4A90B8?style=for-the-badge" /> | innovations | PDCA, evidence chain, consensus voting... |
+| <img src="https://img.shields.io/badge/1,706-4A90B8?style=for-the-badge" /> | LOC | production browse server |
+| <img src="https://img.shields.io/badge/10-4A90B8?style=for-the-badge" /> | suites | E2E eval infrastructure |
+| <img src="https://img.shields.io/badge/11-4A90B8?style=for-the-badge" /> | steps | ship-to-deploy full chain |
+
+</div>
 
 ---
 
+### Featured Project
+
+<div align="center">
+
+<a href="https://github.com/sangwookp9591/ai-ng-kit-claude">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwookp9591&repo=ai-ng-kit-claude&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666" />
+</a>
+
+</div>
+
+---
+
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangwookp9591&show_icons=true&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666&rank_icon=percentile" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwookp9591&layout=compact&theme=transparent&hide_border=true&title_color=4A90B8&text_color=666&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangwookp9591&show_icons=true&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666&rank_icon=percentile" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwookp9591&layout=compact&theme=transparent&hide_border=true&title_color=4A90B8&text_color=666&langs_count=6" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangwookp9591&theme=transparent&hide_border=true&ring=4A90B8&fire=4A90B8&currStreakLabel=4A90B8&sideLabels=666&dates=999" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangwookp9591&theme=github-compact&hide_border=true&color=4A90B8&line=4A90B8&point=1A2744&area=true&area_color=4A90B8" />
 </p>
 
 ---
