@@ -1,146 +1,103 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90B8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+build+systems+that+build+systems.;16+agents.+39+skills.+1%2C712+tests." alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://ai-ng.co.kr"><img src="https://img.shields.io/badge/ai--ng.co.kr-4A90B8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/sangwookp9591/ai-ng-kit-claude"><img src="https://img.shields.io/badge/aing-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangwookp9591&style=flat-square&color=4A90B8" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/sangwookp9591/ai-ng-kit-claude?style=flat-square&color=4A90B8&label=aing%20stars" alt="Stars" />
-</p>
-
----
-
-<h3 align="center">What I Do</h3>
-
-<p align="center">
-  I make AI write better code than I can, then verify it actually works.
-</p>
-
 <div align="center">
 
-```
-/aing auto "build a login system"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:4A90B8&height=200&section=header&text=sangwook%20park&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Harness%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-One command. Plan, build, review, security audit, ship. All orchestrated.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=2000&color=4A90B8&center=true&vCenter=true&repeat=true&width=500&height=30&lines=systems+that+orchestrate+systems;no+evidence%2C+no+done;16+agents+%C2%B7+1%2C712+tests+%C2%B7+zero+tolerance)](https://github.com/sangwookp9591/ai-ng-kit-claude)
+
+<br>
+
+<a href="https://ai-ng.co.kr"><img src="https://img.shields.io/badge/ai--ng.co.kr-0d1117?style=flat&logo=vercel&logoColor=white&labelColor=0d1117" /></a>&nbsp;&nbsp;
+<a href="https://github.com/sangwookp9591/ai-ng-kit-claude"><img src="https://img.shields.io/badge/aing%20v2.8.4-0d1117?style=flat&logo=github&logoColor=white&labelColor=0d1117" /></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sangwookp9591&style=flat&color=0d1117&label=views" />
 
 </div>
 
----
+<br>
 
-### Tech Stack
+```typescript
+const sangwook = {
+  building: "aing — AI harness that proves its own work",
+  stack:    ["TypeScript", "Node.js", "Next.js", "Playwright", "Claude Code"],
+  belief:   "증거 없이 완료를 선언하지 않는다",
+  agents:   16,  // Sam, Milla, Klay, Able, Jay, Derek...
+  tests:    1712, // and counting
+};
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,tailwind,git,github,vscode&theme=dark" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript_6.0-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint_10-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+<div align="center">
 
----
-
-### Philosophy
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
-
-**No Evidence, No Done**
-
-증거 없이 완료를 선언하지 않는다
-
-Tests pass, builds succeed, security clears. Opinions don't count.
-
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<br><sub><b>TypeScript</b></sub>
 </td>
-<td align="center" width="33%">
-
-**Recovery > Prevention**
-
-Circuit breakers, rollback checkpoints, snapshot-based restore.
-
-Failure is information, not a stop sign.
-
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<br><sub><b>Node.js</b></sub>
 </td>
-<td align="center" width="33%">
-
-**AI = Multiplier**
-
-16 agents with distinct perspectives beat 1 agent trying to be everything.
-
-Human decides. Always.
-
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
+<br><sub><b>Playwright</b></sub>
+</td>
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" />
+<br><sub><b>Vitest</b></sub>
+</td>
+<td align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br><sub><b>Git</b></sub>
 </td>
 </tr>
 </table>
 
----
+</div>
 
-### aing by the Numbers
+<br>
 
 <div align="center">
 
-| | Count | What |
-|:---:|:---:|:---|
-| <img src="https://img.shields.io/badge/1,712-4A90B8?style=for-the-badge" /> | tests | passing (99.7%) |
-| <img src="https://img.shields.io/badge/36K-4A90B8?style=for-the-badge" /> | LOC | TypeScript, zero runtime deps guessing |
-| <img src="https://img.shields.io/badge/16-4A90B8?style=for-the-badge" /> | agents | Sam, Milla, Klay, Able, Jay, Derek... |
-| <img src="https://img.shields.io/badge/39-4A90B8?style=for-the-badge" /> | skills | auto, ship, debug, review, teacher... |
-| <img src="https://img.shields.io/badge/24-4A90B8?style=for-the-badge" /> | innovations | PDCA, evidence chain, consensus voting... |
-| <img src="https://img.shields.io/badge/1,706-4A90B8?style=for-the-badge" /> | LOC | production browse server |
-| <img src="https://img.shields.io/badge/10-4A90B8?style=for-the-badge" /> | suites | E2E eval infrastructure |
-| <img src="https://img.shields.io/badge/11-4A90B8?style=for-the-badge" /> | steps | ship-to-deploy full chain |
+```
+  1,712 tests    ·    36K LOC    ·    16 agents    ·    39 skills    ·    24 innovations
+```
 
 </div>
 
----
-
-### Featured Project
+<br>
 
 <div align="center">
-
 <a href="https://github.com/sangwookp9591/ai-ng-kit-claude">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwookp9591&repo=ai-ng-kit-claude&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangwookp9591&repo=ai-ng-kit-claude&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90B8&icon_color=4A90B8" />
 </a>
-
 </div>
 
----
+<br>
 
-### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangwookp9591&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A90B8&icon_color=4A90B8&text_color=8b949e&rank_icon=percentile" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangwookp9591&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4A90B8&fire=4A90B8&currStreakLabel=4A90B8&sideLabels=8b949e&dates=555" height="160" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangwookp9591&show_icons=true&theme=transparent&hide_border=true&title_color=4A90B8&icon_color=4A90B8&text_color=666&rank_icon=percentile" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwookp9591&layout=compact&theme=transparent&hide_border=true&title_color=4A90B8&text_color=666&langs_count=6" height="170" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangwookp9591&theme=transparent&hide_border=true&ring=4A90B8&fire=4A90B8&currStreakLabel=4A90B8&sideLabels=666&dates=999" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangwookp9591&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A90B8&line=4A90B8&point=ffffff&area=true&area_color=4A90B8" width="95%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangwookp9591&theme=github-compact&hide_border=true&color=4A90B8&line=4A90B8&point=1A2744&area=true&area_color=4A90B8" />
-</p>
+<br>
 
----
-
-<p align="center">
-  <sub>Builder. Not a talker.</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:4A90B8&height=100&section=footer" width="100%" />
