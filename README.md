@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="./assets/mascot-hello.png" width="170" alt="aing mascot" />
+<img width="256" height="256" alt="celebrate" src="https://github.com/user-attachments/assets/1f04fb72-3543-4297-9e29-eb054386f9d5" />
 
 <a href="https://ai-ng.co.kr">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1500&color=4A90B8&center=true&vCenter=true&repeat=true&width=520&height=42&lines=sangwook+park" alt="sangwook park" />
