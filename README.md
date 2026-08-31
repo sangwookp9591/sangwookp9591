@@ -1,3 +1,4 @@
+<img width="940" height="386" alt="스크린샷 2026-08-31 오전 11 50 57" src="https://github.com/user-attachments/assets/15f70c95-4518-48ff-a549-4bfc3c477f43" />
 <div align="center">
 
 <a href="https://github.com/sangwookp9591/ai-ng-kit-claude">
