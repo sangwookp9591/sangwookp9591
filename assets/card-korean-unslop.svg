@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="204" viewBox="0 0 580 204">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1726"/><stop offset="1" stop-color="#141d30"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#4A90B8"/><stop offset="1" stop-color="#4A90B8" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#4A90B8" stop-opacity="0.22"/><stop offset="1" stop-color="#4A90B8" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="580" height="204" rx="16"/></clipPath>
+  <style>.s{animation:s 4s linear infinite}@keyframes s{from{transform:translateX(-580px)}to{transform:translateX(580px)}}</style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="580" height="204" fill="url(#g)"/>
+  <rect width="580" height="204" fill="url(#glow)"/>
+  <rect class="s" y="0" width="580" height="3" fill="url(#bar)"/>
+  <rect x="0.5" y="0.5" width="579" height="203" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="28" y="46" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="13" fill="#7d8da3" letter-spacing="1.5">CLAUDE CODE PLUGIN</text>
+  <text x="28" y="78" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#e6edf3">korean-unslop</text>
+  <rect x="482" y="24" width="70" height="24" rx="12" fill="#4A90B8" fill-opacity="0.15" stroke="#4A90B8" stroke-opacity="0.5"/><text x="517.0" y="40.5" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#4A90B8">writing</text>
+  <text y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="15.5" fill="#aab7c6"><tspan x="28" dy="0">한국어 글의 어색한 AI 문체를 찾아 다듬습니다. 문장 교정은 물론</tspan><tspan x="28" dy="24">PPT·보고서의 흐름까지 검토하고 진행 상황을 세션 화면에 띄웁니다.</tspan></text>
+  <circle cx="34" cy="180" r="6" fill="#3178c6"/>
+  <text x="48" y="185" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98a9">TypeScript</text>
+  <text x="552" y="185" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#4A90B8">view repo →</text>
+</g>
+</svg>

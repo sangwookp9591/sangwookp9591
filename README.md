@@ -1,32 +1,54 @@
-# Sangwook Park
+<div align="center">
 
-즉흥적으로 생각한 아이디어를 구한하는 것을 좋아합니다.
+<a href="https://ai-ng.co.kr"><img src="./assets/header.svg" width="100%" alt="Sangwook Park — 즉흥적으로 떠올린 아이디어를 바로 구현하는 걸 좋아합니다." /></a>
 
-[Website](https://ai-ng.co.kr) · [YouTube](https://www.youtube.com/@ai-ng-tech) · [Email](mailto:sangwookp9591@gmail.com)
+<br>
 
-## 최근 공개 작업
+<a href="https://ai-ng.co.kr"><img src="https://img.shields.io/badge/Website-ai--ng.co.kr-4A90B8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.youtube.com/@ai-ng-tech"><img src="https://img.shields.io/badge/YouTube-@ai--ng--tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:sangwookp9591@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### [korean-unslop](https://github.com/sangwookp9591/korean-unslop)
+</div>
 
-한국어 글에서 어색한 AI 문체를 찾아 다듬는 Claude Code 플러그인입니다. 문장 교정뿐 아니라 PPT·보고서의 흐름을 검토하고, 작업 진행 상황을 세션 화면에 표출.
+<br>
 
-### [model-routing](https://github.com/sangwookp9591/model-routing)
+## <img src="./assets/mascot-code.png" width="34" align="top" /> 최근 공개 작업
 
-사용 중인 하네스와 플랜, 남은 사용량을 확인하고 작업 단계마다 모델과 effort를 배치하는 스킬입니다. 비용을 줄일 수 있는 단계와 품질을 지켜야 하는 단계를 구분.
+<p align="center">
+  <a href="https://github.com/sangwookp9591/korean-unslop"><img src="./assets/card-korean-unslop.svg" width="49%" alt="korean-unslop" /></a>
+  <a href="https://github.com/sangwookp9591/model-routing"><img src="./assets/card-model-routing.svg" width="49%" alt="model-routing" /></a>
+  <a href="https://github.com/sangwookp9591/claude-code-mods"><img src="./assets/card-claude-code-mods.svg" width="49%" alt="claude-code-mods" /></a>
+  <a href="https://github.com/sangwookp9591/your-call"><img src="./assets/card-your-call.svg" width="49%" alt="your-call" /></a>
+</p>
 
-### [claude-code-mods](https://github.com/sangwookp9591/claude-code-mods)
+## <img src="./assets/mascot-think.png" width="34" align="top" /> 다른 실험
 
-Claude Code의 세션 화면과 동작을 바꾸는 mod 모음입니다. 대시보드, 세션 기록기, API 테스트 도구와 새 mod를 만들기 위한 템플릿.
+<p align="center">
+  <a href="https://github.com/sangwookp9591/wasm-bottleneck"><img src="./assets/card-wasm-bottleneck.svg" width="49%" alt="wasm-bottleneck" /></a>
+  <a href="https://github.com/sangwookp9591/kaisa"><img src="./assets/card-kaisa.svg" width="49%" alt="kaisa" /></a>
+</p>
 
-### [your-call](https://github.com/sangwookp9591/your-call)
+## <img src="./assets/mascot-wink.png" width="34" align="top" /> 최근 작업에서 다루는 것
 
-AI와 작업하며 내린 결정과 변경 과정을 대화 밖에 기록하는 플러그인입니다. 의도는 사람이 밝힌 말로만 남기고, 확정한 케이스와 테스트를 대조합니다.
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_·_JSX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
+</p>
 
-## 다른 실험
+<br>
 
-- **[wasm-bottleneck](https://github.com/sangwookp9591/wasm-bottleneck)**: 성능 병목을 측정하고, 필요성이 확인된 부분만 Rust/WASM으로 교체하도록 돕는 스킬.
-- **[kaisa](https://github.com/sangwookp9591/kaisa)**: 코딩 에이전트의 작업을 격리하고 테스트와 독립 리뷰를 거치게 하는 Rust 기반 도구. 초기 개발 단계입니다.
+<div align="center">
 
-## 최근 작업에서 다루는 것
+<img src="./assets/mascot-wink2.png" width="110" alt="mascot" />
 
-Claude Code · Codex · TypeScript/JSX · JavaScript · Python · Rust/WASM
+**함께 만들 게 있다면 편하게 연락 주세요.**
+
+<img src="./assets/footer-wave.svg" width="100%" alt="" />
+
+</div>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="186" viewBox="0 0 580 186">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1726"/><stop offset="1" stop-color="#141d30"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.22"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="580" height="186" rx="16"/></clipPath>
+  <style>.s{animation:s 4s linear infinite}@keyframes s{from{transform:translateX(-580px)}to{transform:translateX(580px)}}</style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="580" height="186" fill="url(#g)"/>
+  <rect width="580" height="186" fill="url(#glow)"/>
+  <rect class="s" y="0" width="580" height="3" fill="url(#bar)"/>
+  <rect x="0.5" y="0.5" width="579" height="185" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="28" y="46" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="13" fill="#7d8da3" letter-spacing="1.5">SKILL</text>
+  <text x="28" y="78" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#e6edf3">wasm-bottleneck</text>
+  <rect x="506" y="24" width="46" height="24" rx="12" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-opacity="0.5"/><text x="529.0" y="40.5" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" fill="#f59e0b">perf</text>
+  <text y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="15.5" fill="#aab7c6"><tspan x="28" dy="0">성능 병목을 측정하고, 필요성이 확인된 부분만 Rust/WASM으로 교체하도록</tspan><tspan x="28" dy="24">돕습니다.</tspan></text>
+  <circle cx="34" cy="162" r="6" fill="#3572A5"/>
+  <text x="48" y="167" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif" font-size="13" fill="#8b98a9">Python</text>
+  <text x="552" y="167" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#f59e0b">view repo →</text>
+</g>
+</svg>
