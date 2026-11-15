@@ -1,8 +1,6 @@
 # Sangwook Park
 
-개발 도구를 만들고, AI와 일하는 방식을 실험합니다.
-
-코딩 에이전트의 모델 선택과 세션 UI, 한국어 글쓰기처럼 직접 부딪히는 문제를 스킬과 플러그인으로 풀고 있습니다.
+즉흥적으로 생각한 아이디어를 구한하는 것을 좋아합니다.
 
 [Website](https://ai-ng.co.kr) · [YouTube](https://www.youtube.com/@ai-ng-tech) · [Email](mailto:sangwookp9591@gmail.com)
 
@@ -10,15 +8,15 @@
 
 ### [korean-unslop](https://github.com/sangwookp9591/korean-unslop)
 
-한국어 글에서 어색한 AI 문체를 찾아 다듬는 Claude Code 플러그인입니다. 문장 교정뿐 아니라 PPT·보고서의 흐름을 검토하고, 작업 진행 상황을 세션 화면에 보여줍니다.
+한국어 글에서 어색한 AI 문체를 찾아 다듬는 Claude Code 플러그인입니다. 문장 교정뿐 아니라 PPT·보고서의 흐름을 검토하고, 작업 진행 상황을 세션 화면에 표출.
 
 ### [model-routing](https://github.com/sangwookp9591/model-routing)
 
-사용 중인 하네스와 플랜, 남은 사용량을 확인하고 작업 단계마다 모델과 effort를 배치하는 스킬입니다. 비용을 줄일 수 있는 단계와 품질을 지켜야 하는 단계를 구분합니다.
+사용 중인 하네스와 플랜, 남은 사용량을 확인하고 작업 단계마다 모델과 effort를 배치하는 스킬입니다. 비용을 줄일 수 있는 단계와 품질을 지켜야 하는 단계를 구분.
 
 ### [claude-code-mods](https://github.com/sangwookp9591/claude-code-mods)
 
-Claude Code의 세션 화면과 동작을 바꾸는 mod 모음입니다. 대시보드, 세션 기록기, API 테스트 도구와 새 mod를 만들기 위한 템플릿을 담았습니다.
+Claude Code의 세션 화면과 동작을 바꾸는 mod 모음입니다. 대시보드, 세션 기록기, API 테스트 도구와 새 mod를 만들기 위한 템플릿.
 
 ### [your-call](https://github.com/sangwookp9591/your-call)
 
