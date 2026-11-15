@@ -41,6 +41,14 @@
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
 </p>
 
+## <img src="./assets/mascot-wave.png" width="34" align="top" /> 커밋 잔디를 먹는 팩맨
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangwookp9591/sangwookp9591/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangwookp9591/sangwookp9591/output/pacman-contribution-graph.svg">
+  <img alt="커밋 기록을 먹는 팩맨" src="https://raw.githubusercontent.com/sangwookp9591/sangwookp9591/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
 <br>
 
 <div align="center">

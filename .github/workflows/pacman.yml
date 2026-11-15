@@ -1,0 +1,39 @@
+name: pacman contribution graph
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 매일 00:00 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/pacman.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pacman
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: generate Pac-Man SVGs
+        # v5.0.0, 커밋으로 고정
+        uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      - name: push SVGs to the output branch
+        run: |
+          ls -la dist
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "update pacman contribution graph"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
